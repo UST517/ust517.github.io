@@ -124,6 +124,9 @@ hr.small {
   width: 35px;
   height: 35px
 }
+.navbar-brand{
+  flex: 1;
+}
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
