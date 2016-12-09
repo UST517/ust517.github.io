@@ -114,6 +114,10 @@ hr.small {
   font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
 }
+.navbar-logo {
+  width: 50;
+  height: 50
+}
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
