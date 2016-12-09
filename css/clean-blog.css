@@ -117,7 +117,9 @@ hr.small {
 
 .head-logo {
   display: flex;
+  align-items: center;
 }
+
 .navbar-logo {
   width: 50;
   height: 50
@@ -141,7 +143,7 @@ hr.small {
   }
   .navbar-custom .navbar-brand {
     color: white;
-    padding: 20px;
+    padding-left: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
